@@ -21,3 +21,4 @@ If you don't want to clone the repo, just download the configuration files, for 
 ## TODO: Awesome Commands
 
 * LSP Servers plugins: https://www.youtube.com/watch?v=n6JEqPuWOxg&t=136s
+* LSP auto complete: CTRL + W and O
