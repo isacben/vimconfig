@@ -9,6 +9,8 @@ syntax on
 
 set number
 set relativenumber
+
+color desert
 set cursorline
 
 set tabstop=4
