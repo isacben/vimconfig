@@ -21,7 +21,7 @@ If you don't want to clone the repo, just download the configuration files, for 
 ## Awesome Commands
 
 * LSP Servers plugins: https://www.youtube.com/watch?v=n6JEqPuWOxg&t=136s
-* LSP auto complete: CTRL + W and O
+* LSP auto complete: CTRL + X and O
 * Move a window: CTRL + W and HJKL
 * Move between windows: CTRL + W + hjkl
 * Open terminal in a window: :term
