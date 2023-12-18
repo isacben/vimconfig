@@ -22,8 +22,12 @@ If you don't want to clone the repo, just download the configuration files, for 
 
 * LSP Servers plugins: https://www.youtube.com/watch?v=n6JEqPuWOxg&t=136s
 * LSP auto complete: CTRL + X and O
+* Open new window: CRTL + W + n
 * Move a window: CTRL + W and HJKL
 * Move between windows: CTRL + W + hjkl
 * Open terminal in a window: :term
 * Change to normal mode in a terminal window: CTRL + W and N (capital n)
 * Paste from buffer window to terminal window: CTRL + W and "" (2 double quotations)
+* Fold (based on "syntax" method): zc
+* Unfold (based on "syntax" method): zo
+* Toggle fold/unfold: za

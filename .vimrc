@@ -21,6 +21,9 @@ set wildmenu
 set wildmode=list:longest
 set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx`
 
+set clipboard=unnamed
+set foldmethod=syntax
+
 call plug#begin()
 
 Plug 'prabirshrestha/vim-lsp'
