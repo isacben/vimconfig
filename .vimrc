@@ -13,6 +13,7 @@ set cursorline
 
 set tabstop=4
 set expandtab
+set shiftwidth=4
 
 set ignorecase
 set smartcase
