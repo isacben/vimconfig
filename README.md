@@ -31,3 +31,4 @@ If you don't want to clone the repo, just download the configuration files, for 
 * Fold (based on "syntax" method): zc
 * Unfold (based on "syntax" method): zo
 * Toggle fold/unfold: za
+* Comment multiple lines: CRTL + V, j (to select lines), Shift + i, type comment character, ESC + ESC
